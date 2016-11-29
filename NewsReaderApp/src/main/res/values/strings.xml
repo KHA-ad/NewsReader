@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestWord</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_news_navigation">NewsNavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_news_detail">详细新闻</string>
+
+    <string name="action_main">返回新闻界面</string>
+
+    <string name="title_activity_search">联网查词</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
